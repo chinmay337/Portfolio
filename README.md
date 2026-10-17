@@ -61,12 +61,4 @@ A modern, fully responsive personal portfolio website designed with a **cinemati
 
 ---
 
-## 📸 Screenshots for Assignment Submission
-When preparing your final PDF report:
-1. **Source Code Screenshots:** Take clear screenshots of `index.html`, `style.css`, and `script.js` in VS Code.
-2. **Output Screenshots:**
-   - Desktop Hero & About section
-   - Skills section with filter interaction
-   - Featured Projects & Lok Netra modal
-   - Contact form with validation feedback
-   - Mobile responsive view (via Chrome DevTools toggle device toolbar: iPhone / Pixel)
+
