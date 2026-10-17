@@ -1,7 +1,7 @@
 # 🎬 Task 1: Personal Portfolio Website
 
 > **Frontend Engineering Course — Assignment 1 (Task 1)**  
-> **Student Name:** Chinmay Vinayak Thukaru  
+> **Student Name:** Chinmay Vinayak Thukarul  
 > **Institution:** Atharva College of Engineering, Mumbai  
 > **Degree:** B.E. in Information Technology (Diploma in Computer Engineering - 89.75%)  
 > **Live GitHub Repository:** [https://github.com/chinmay337](https://github.com/chinmay337)
